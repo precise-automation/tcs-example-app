@@ -1,0 +1,8 @@
+.vscode/*
+*.pyo
+*.pyc
+*.spec
+
+venv
+build
+dist
