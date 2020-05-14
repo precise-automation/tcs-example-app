@@ -1,4 +1,5 @@
-"""A Python interface for commanding a Precise Automation robot.
+"""
+A Python interface for commanding a Precise Automation robot.
 
 Use of this interface requires TCS to be running on the Precise Automation robot.
 """

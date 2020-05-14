@@ -2,7 +2,7 @@ import threading
 import time
 import queue
 
-from src.TCSInterface import *
+from TCSInterface.TCSInterface import *
 from exampleAppGUI import *
 
 
